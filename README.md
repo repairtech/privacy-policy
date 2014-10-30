@@ -1,4 +1,4 @@
-RepairTech - Privacy Policy
+<h1>RepairTech - Privacy Policy</h1>
 
 At RepairTech, we gather data in order to keep the world informed about the most current
 problems and issues facing the computer repair industry. We want to collect robust data that
@@ -8,7 +8,7 @@ While we do collect information, it is of utmost importance that we operate with
 and honor with respect to our customers. This document outlines our procedures and practices
 for gathering, using, and distributing the data we may collect.
 
-Website and Forum Visitors
+<h3>Website and Forum Visitors</h3>
 
 As a visitor to this Site, you can engage in many activities without providing any personal
 information. For example, visitors may view most of the threads on our help forum and help
@@ -30,7 +30,7 @@ Protocol (IP) address of users' computers. RepairTech also uses such information
 traffic patterns on the Site and usage of the Products and Services. We do not match such
 information with any other information held by RepairTech unless we have a user's consent.
 
-Software Users
+<h3>Software Users</h3>
 
 In addition to information collected by our website and user forms, RepairTech software
 also collects certain additional information from users of our repair software. In particular,
@@ -46,14 +46,14 @@ Lastly, for users of the full version of RepairTech’s software, RepairTech doe
 licenses to protect against software piracy and malicious companies who attempt to circumvent
 RepairTech protection by using stolen license keys.
 
-Billing Information and 3rd Party Companies
+<h3>Billing Information and 3rd Party Companies</h3>
 
 We don’t store your billing information on our servers. We use Stripe, which is a PCI Compliant
 Payment Processor, in order to keep your billing information secure.
 
 We do not share your personal information with 3rd party companies. Period. We will never distribute your email address or any of your other personal information, unless you explicitly request us to do so.
 
-How do we collect and use information?
+<h3>How do we collect and use information?</h3>
 
 We collect this information through registration and login forms on our website, and
 through the uploaded data from TechUSB and TechWARU. We use metrics and data gathered from
@@ -65,14 +65,14 @@ effectiveness of our products. Eventually, we intend to parse and analyze upload
 computer repair industry. These reports may include trends, failure rates, brand related data or
 other information that may help educate and strengthen the computer repair industry.
 
-Your Agreement to this Privacy Policy
+<h3>Your Agreement to this Privacy Policy</h3>
 
 By using this Site and our other products and services, you agree and acknowledge that
 personal information collected through the Site or in connection with the Products and Services
 may be transferred across national boundaries and stored and processed in any of the countries
 around the world in which RepairTech maintains offices, including the United States.
 
-Our Guarantee to You
+<h3>Our Guarantee to You</h3>
 
 If you have any questions or feel uncertain about the details of our Privacy Policy, we urge
 you to contact us at info@repairtechsolutions.com so we can help clarify anything that you are
