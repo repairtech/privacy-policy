@@ -7,6 +7,7 @@ that information back to the community and make us all smarter, safer and strong
 While we do collect information, it is of utmost importance that we operate with transparency
 and honor with respect to our customers. This document outlines our procedures and practices
 for gathering, using, and distributing the data we may collect.
+
 Website and Forum Visitors
 
 As a visitor to this Site, you can engage in many activities without providing any personal
@@ -28,21 +29,18 @@ as browser type, operating system, CPU speed, referring or exit webpages, and th
 Protocol (IP) address of users' computers. RepairTech also uses such information to measure
 traffic patterns on the Site and usage of the Products and Services. We do not match such
 information with any other information held by RepairTech unless we have a user's consent.
+
 Software Users
 
 In addition to information collected by our website and user forms, RepairTech software
 also collects certain additional information from users of our repair software. In particular,
 RepairTech keeps a record of Computer Hardware Specifications, Operating System
-specifications, TechUSB and D7 reported results, Feature Requests, Bug Reports, and User
-Feedback, Debug Logs, IP addresses, TechDB Search Results and User Suggestions, and
+specifications, TechUSB and TechWARU Generated Reports, Feature Requests, Bug Reports, and User
+Feedback, Debug Logs, IP addresses, TechSearch Search Results, and
 Email Addresses.
 
-This information is important to allow RepairTech to better protect all of its users against threats
-as soon as they emerge. RepairTech’s software also sends data to our servers concerning how
-many users are logging on to the server at any given time and what version of RepairTech the
-users are running. These usage statistics help RepairTech keep its software running smoothly
-and minimize service interruptions. Much of this information is collected in the aggregate, with
-no way for RepairTech to track individual users' information.
+This information is important to enable RepairTech to better protect all of its users against threats
+as soon as they emerge, and to help improve RepairTech's products. RepairTech’s software also sends data to our servers regarding how users are using TechWARU and TechUSB. These usage statistics help RepairTech keep its software running smoothly and minimize service interruptions. 
 
 Lastly, for users of the full version of RepairTech’s software, RepairTech does track usage of its
 licenses to protect against software piracy and malicious companies who attempt to circumvent
@@ -52,19 +50,18 @@ Billing Information and 3rd Party Companies
 
 We don’t store your billing information on our servers. We use Stripe, which is a PCI Compliant
 Payment Processor, in order to keep your billing information secure.
-As far as sharing your personal information with 3rd party companies, we don’t do that.
-Period. We will never distribute your email address or any of your other personal information.
+
+We do not share your personal information with 3rd party companies. Period. We will never distribute your email address or any of your other personal information, unless you explicitly request us to do so.
 
 How do we collect and use information?
 
 We collect this information through registration and login forms on our website, and
-through the uploaded log files from TechUSB and D7. We use metrics and data gathered from
+through the uploaded data from TechUSB and TechWARU. We use metrics and data gathered from
 web interactions to understand where our users are coming from, how they arrive at our site,
 and what features they use most.
 
-We use log information from TechUSB and D7 to measure the efficiency and
-effectiveness of our products. Eventually, we intend to parse and analyze data from uploaded
-logs and our website in order to create reports and data packages regarding the state of the
+We use log information from TechUSB and TechWARU to measure the efficiency and
+effectiveness of our products. Eventually, we intend to parse and analyze uploaded data to our website in order to create reports and data packages regarding the state of the
 computer repair industry. These reports may include trends, failure rates, brand related data or
 other information that may help educate and strengthen the computer repair industry.
 
@@ -80,4 +77,3 @@ Our Guarantee to You
 If you have any questions or feel uncertain about the details of our Privacy Policy, we urge
 you to contact us at info@repairtechsolutions.com so we can help clarify anything that you are
 curious about.
-
