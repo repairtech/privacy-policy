@@ -61,7 +61,7 @@ and what features they use most.
 We use log information from TechUSB, TechWARU, and Project Kabuto to measure the efficiency and
 effectiveness of our products. Eventually, we intend to parse and analyze uploaded data to our website in order to create reports and data packages regarding the state of the
 computer repair industry. These reports may include trends, failure rates, brand related data or
-other information that may help educate and strengthen the computer repair industry.
+other information that may help educate and strengthen the computer repair industry. In the event that we release a report to the public, all data will be anonymized.
 
 <h3>Your Agreement to this Privacy Policy</h3>
 
