@@ -73,5 +73,10 @@ around the world in which RepairTech maintains offices, including the United Sta
 <h3>Our Guarantee to You</h3>
 
 If you have any questions or feel uncertain about the details of our Privacy Policy, we urge
-you to contact us at info@repairtechsolutions.com so we can help clarify anything that you are
+you to contact us at support@repairtechsolutions.com so we can help clarify anything that you are
 curious about.
+
+RepairTech, Inc.
+repairtechsolutions.com
+955 Morro St
+San Luis Obispo, CA 93401
