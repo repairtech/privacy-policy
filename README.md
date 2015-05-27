@@ -76,7 +76,8 @@ If you have any questions or feel uncertain about the details of our Privacy Pol
 you to contact us at support@repairtechsolutions.com so we can help clarify anything that you are
 curious about.
 
-RepairTech, Inc.
-repairtechsolutions.com
+<a href="https://repairtechsolutions.com">RepairTech, Inc.</a>
+
 955 Morro St
+
 San Luis Obispo, CA 93401
