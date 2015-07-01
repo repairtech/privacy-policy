@@ -35,10 +35,10 @@ information with any other information held by RepairTech unless we have a user'
 In addition to information collected by our website and user forms, RepairTech software
 also collects certain additional information from users of our repair software. In particular,
 RepairTech keeps a record of Computer Hardware Specifications, Operating System
-specifications, Project Kabuto Alerts, TechUSB and TechWARU Generated Reports, Feature Requests, Bug Reports, and User Feedback, Debug Logs, IP addresses, and Email Addresses.
+specifications, Kabuto Alerts, TechUSB and TechWARU Generated Reports, Feature Requests, Bug Reports, and User Feedback, Debug Logs, IP addresses, and Email Addresses.
 
 This information is important to enable RepairTech to better protect all of its users against threats
-as soon as they emerge, and to help improve RepairTech's products. RepairTech’s software also sends data to our servers regarding how users are using TechWARU, TechUSB, and Project Kabuto. These usage statistics help RepairTech keep its software running smoothly and minimize service interruptions. 
+as soon as they emerge, and to help improve RepairTech's products. RepairTech’s software also sends data to our servers regarding how users are using TechWARU, TechUSB, and Kabuto. These usage statistics help RepairTech keep its software running smoothly and minimize service interruptions. 
 
 Lastly, for users of the full version of RepairTech’s software, RepairTech does track usage of its
 licenses to protect against software piracy and malicious companies who attempt to circumvent
@@ -46,7 +46,7 @@ RepairTech protection by using stolen license keys.
 
 <h3>Billing Information and 3rd Party Companies</h3>
 
-We don’t store your billing information on our servers. We use Stripe, which is a PCI Compliant
+We don’t store your billing information on our servers. We use Stripe, a PCI Compliant
 Payment Processor, in order to keep your billing information secure.
 
 We do not share your personal information with 3rd party companies. Period. We will never distribute your email address or any of your other personal information, unless you explicitly request us to do so.
@@ -54,14 +54,12 @@ We do not share your personal information with 3rd party companies. Period. We w
 <h3>How do we collect and use information?</h3>
 
 We collect this information through registration and login forms on our website, and
-through the uploaded data from TechUSB, TechWARU, and Project Kabuto. We use metrics and data gathered from
+through the uploaded data from TechUSB, TechWARU, and Kabuto. We use metrics and data gathered from
 web interactions to understand where our users are coming from, how they arrive at our site,
 and what features they use most.
 
-We use log information from TechUSB, TechWARU, and Project Kabuto to measure the efficiency and
-effectiveness of our products. Eventually, we intend to parse and analyze uploaded data to our website in order to create reports and data packages regarding the state of the
-computer repair industry. These reports may include trends, failure rates, brand related data or
-other information that may help educate and strengthen the computer repair industry. In the event that we release a report to the public, all data will be anonymized.
+We use log information from TechUSB, TechWARU, and Kabuto to measure the efficiency and
+effectiveness of our products. Eventually, we intend to parse and analyze uploaded data to our website in order to create reports and data packages regarding the state of the computer repair industry. These reports may include trends, failure rates, brand related data or other information that may help educate and strengthen the computer repair industry. In the event that we release a report to the public, all data will be anonymized.
 
 <h3>Your Agreement to this Privacy Policy</h3>
 
