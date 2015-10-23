@@ -16,9 +16,9 @@ desk without signing up for a user name or providing any personal information.
 Those who wish to sign up for the RepairTech forums or use certain online or hosted products
 and services may do so by voluntarily filling out and submitting a user information form. It is
 optional for users to engage in these activities, but for those who wish to do so, filling out certain
-fields in the user forms will be mandatory.
+fields in the user forms will be mandatory. Users who do not provide the mandatory data in the user form for a particular activity will not be able to engage in that activity. 
 
-Users who do not provide the mandatory data in the user form for a particular activity will not be able to engage in that activity.
+When you visit our site we may place cookies on your browser for so we can serve you ads while you're browsing the web. The information collected may be an IP Address, cookie identifiers, and information about your activity on our site. We do this so that our brand is on your mind :)  You can opt out or learn more about this by going to the DAA at www.aboutads.info or the NAI at networkadvertising.org/choices. For those in Europe, you can go to to the EDAA at youronlinechoices.eu.
 
 RepairTech may also collect certain information about users' computers when they access the
 RepairTech website or use certain products and services. This information is used to facilitate
