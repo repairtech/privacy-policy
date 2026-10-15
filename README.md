@@ -1,3 +1,5 @@
+> **This document has moved.** The current Privacy Policy, which covers TechSuite, Lantern and our website, is at https://www.repairtechsolutions.com/legal/privacy/. This copy is an archive of the version last updated September 4, 2025. It no longer applies.
+
 # TechSuite Privacy Policy
 
 _Last Updated: September 4, 2025_
